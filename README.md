@@ -1,2 +1,2 @@
 # OpsGPT
-GPT for Operations
+GPT for Operations, new way to manage your OPS knowledges!
